@@ -72,7 +72,7 @@
     "fs-blob-store": "^5.2.1",
     "istanbul": "^1.1.0-alpha.1",
     "mocha": "^6.0.0",
-    "s3-blob-store": "^3.2.0",
+    "s3-blob-store": "git+https://github.com/bitflower/s3-blob-store.git",
     "semistandard": "^14.0.1"
   }
 }
